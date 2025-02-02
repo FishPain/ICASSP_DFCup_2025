@@ -1,0 +1,19 @@
+torch
+torchvision
+numpy
+pandas
+matplotlib
+tqdm
+ipykernel
+opencv-python
+transformers
+qwen-vl-utils
+accelerate
+flash-attn
+
+# clip from src
+git+https://github.com/openai/CLIP
+
+# Optional
+# data loading form onedrive
+Office365-REST-Python-Client
